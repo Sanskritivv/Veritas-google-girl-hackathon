@@ -7,6 +7,8 @@ for them to extract OCR based data, set up reminders for tax payments that sync 
 users to perform tax related tasks. Structured data is stored in Airtable and intelligent tax related help is provided by
 the system using a Large Language Model (LLM) [Google Gemini].
 
+<br>
+
 ## Solution Approach
 
 This project employs an integrated, agentic Retrieval-Augmented Generation (RAG) framework to streamline tax management through advanced AI and automation. The key features include:
@@ -26,6 +28,22 @@ This project employs an integrated, agentic Retrieval-Augmented Generation (RAG)
 - Google Gemini LLM Integration:
     Google Gemini, a state-of-the-art Large Language Model, powers the system’s natural language processing capabilities. It interprets user queries, provides contextual tax advice, and enhances overall user interaction, 
     ensuring a seamless and intelligent support experience.
+  
+<br>
 
 ## Results 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/n8n.jpg?raw=true)
+
+<br>
+
+![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/ocr.jpg?raw=true)
+
+<br>
+
+![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal.jpg?raw=true)
+
+<br>
+
+![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal_manual.jpg?raw=true)
+
+
