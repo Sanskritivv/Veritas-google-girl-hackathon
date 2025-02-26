@@ -32,17 +32,22 @@ This project employs an integrated, agentic Retrieval-Augmented Generation (RAG)
 <br>
 
 ## Results 
+
+#### n8n format of AI agent 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/n8n.jpg?raw=true)
 
 <br>
+#### ocr reader
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/ocr.jpg?raw=true)
 
 <br>
+#### tax calculator 
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal.jpg?raw=true)
 
 <br>
+#### tax calculator (manual)
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal_manual.jpg?raw=true)
 
@@ -67,3 +72,18 @@ Ensure you have the required API keys for integrations (e.g., Google Calendar, A
 #### Run the Streamlit App:
 Once everything is configured, launch the Streamlit application with:
 `` streamlit run app.py ``
+
+<br> 
+
+## Acknowledgments
+I would like to express my gratitude to the open-source community and the developers behind the tools and libraries that made this individual project possible. 
+Your dedication and innovation have been a constant source of inspiration throughout this endeavor.
+
+
+
+
+
+
+
+
+
