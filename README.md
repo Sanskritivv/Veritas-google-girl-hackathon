@@ -36,17 +36,20 @@ This project employs an integrated, agentic Retrieval-Augmented Generation (RAG)
 #### n8n format of AI agent 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/n8n.jpg?raw=true)
 
-<br>
+<br> 
+
 #### ocr reader
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/ocr.jpg?raw=true)
 
 <br>
+
 #### tax calculator 
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal.jpg?raw=true)
 
 <br>
+
 #### tax calculator (manual)
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal_manual.jpg?raw=true)
