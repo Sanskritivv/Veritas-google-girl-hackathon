@@ -46,4 +46,24 @@ This project employs an integrated, agentic Retrieval-Augmented Generation (RAG)
 
 ![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/cal_manual.jpg?raw=true)
 
+<br> 
 
+## How to run on your system: 
+
+#### Clone the Repository:
+Open your terminal and run:
+`` git clone <repository_url>``
+
+#### Install Dependencies:
+Navigate into the project directory and install the necessary dependencies mentioned in requirements.txt
+
+#### Set Up Your Environment:
+Configure your environment by setting the necessary environment variables. This may involve creating a .env file and adding your API keys and other configuration parameters.
+and copy the n8n workflow [https://stella09.app.n8n.cloud/workflow/3l5OacJiuISTEI4Y] 
+
+#### Obtain API Keys:
+Ensure you have the required API keys for integrations (e.g., Google Calendar, Airtable, Google Gemini). Add these keys to your environment configuration.
+
+#### Run the Streamlit App:
+Once everything is configured, launch the Streamlit application with:
+`` streamlit run app.py ``
