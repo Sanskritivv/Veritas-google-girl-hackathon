@@ -1,5 +1,5 @@
 # Veritas : on-the-go tax assistant 
-#### Summary
+## Summary
 The proposed project is a tax assistant which operates as an agentic retrieval-augmented generation (RAG)
 system that will help users with tax computations, receipt management, and invoice processing using optical
 character recognition (OCR) . Users can communicate with the system through the chat interface, upload receipts
