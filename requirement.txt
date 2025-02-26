@@ -1,0 +1,21 @@
+This project requires the latest Python version (Python 3.11+ recommended)
+Use of n8n (https://n8n.io/) for advanced workflow automation integration.
+n8n is not a Python package but can be used alongside this system via its API or webhooks.
+
+OCR integration using Tesseract
+pytesseract
+Pillow
+
+Airtable integration
+airtable-python-wrapper
+
+Google Calendar API integration done within n8n
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+Google Gemini LLM integration 
+google-gemini (api key from AI studio)
+
+Streamlit for building interactive web applications
+streamlit
