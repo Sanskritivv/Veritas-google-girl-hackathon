@@ -28,6 +28,8 @@ This project employs an integrated, agentic Retrieval-Augmented Generation (RAG)
 - Google Gemini LLM Integration:
     Google Gemini, a state-of-the-art Large Language Model, powers the system’s natural language processing capabilities. It interprets user queries, provides contextual tax advice, and enhances overall user interaction, 
     ensuring a seamless and intelligent support experience.
+
+![image alt](https://github.com/Sanskritivv/Veritas-google-girl-hackathon/blob/main/images/blueprint.png?raw=true) 
   
 <br>
 
